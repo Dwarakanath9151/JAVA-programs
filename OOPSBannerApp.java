@@ -11,7 +11,7 @@ public class OOPSBannerApp {
             String.join(" ","   ***   ", "   ***   ", "**        ", "   ***   ")
         };
 
-        for (String line : lines) {
+        for(String line : lines){
             System.out.println(line);
         }
     }
